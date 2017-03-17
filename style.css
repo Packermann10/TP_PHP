@@ -1,0 +1,35 @@
+h3 	{ 
+	text-align: left; 
+	background: transparent; 
+	text-decoration: none; 
+	border-bottom: 1px #F2F1FA solid; 
+	font-weight: 50; 
+	color: #7EB52B;
+	margin:15px;
+	float: top;
+	}
+body { 
+	font-family: Tahoma;	
+	font-size: 12px; 
+	color: #000000; 
+	margin: 0px; 
+	
+
+	}
+img	{
+	border: 0px;
+	}
+input { 
+	border: 1px #000000 solid; 
+	background: #F2F1FA;
+	}
+header
+{
+	height : 270px;
+	padding-left : 280px;
+	background-size: 240px 300px;
+	
+	position : relative;
+	
+	border-bottom : #1f1a1e 1px solid;
+}

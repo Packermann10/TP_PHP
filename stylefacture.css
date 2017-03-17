@@ -1,0 +1,58 @@
+
+h3 	{ 
+	text-align: right; 
+	background: transparent; 
+	text-decoration: none; 
+	border-bottom: 1px #F2F1FA solid; 
+	font-weight: 50; 
+	color: #7EB52B;
+
+	float: top;
+
+	}
+body { 
+	font-family: Tahoma;	
+	font-size: 12px; 
+	color: grey; 
+
+
+	}
+img	{
+	border: 0px;
+	}
+input { 
+	border: 1px #000000 solid; 
+	background: #F2F1FA;
+	}
+.parent{ 
+width:auto; 
+height:auto; 
+} 
+
+.image1{ 
+	width: 10%;
+
+
+}
+.fond {
+	background: grey;
+	position:relative;
+	line-height:normal;
+	position:relative;
+	line-height:normal;
+	border-radius: 10px;
+	border: 0px;
+	width:50%;
+	margin:auto;
+}
+h4 	{ 
+	text-align: left; 
+	background: transparent; 
+	text-decoration: none; 
+	border-bottom: 1px #F2F1FA solid; 
+	font-weight: 50; 
+	color: #7EB52B;
+	margin : 10px;
+	float: top;
+
+	}
